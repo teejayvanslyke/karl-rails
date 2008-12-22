@@ -1,0 +1,3 @@
+[submodule "gems/karl"]
+	path = gems/karl
+	url = git://github.com/teejayvanslyke/karl.git
